@@ -1,5 +1,7 @@
 # LambdaLayerBackdoor
 
+Info about this in https://cloud.hacktricks.xyz/pentesting-cloud/aws-pentesting/aws-persistence/aws-lambda-persistence/aws-layers-lambda-persistence
+
 This backdoor is prepared to backdor the load of csv library.
 
 Requisites:
